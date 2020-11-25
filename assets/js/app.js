@@ -1,0 +1,3 @@
+jQuery(($)=>{
+    $('.accordion').accordion();
+});
